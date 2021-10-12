@@ -2,12 +2,11 @@
 '''
     books.py
     Chris Melville and Jake Martens, 11 October 2021
+    Revised by Jake Martens
     Professor Jeff Ondich
 
     For use in the 'books' assignment at the beginning of Carleton's
     CS 257 Software Design class, Fall 2021.
-
-    Revised by Jake Martens
 '''
 
 import csv

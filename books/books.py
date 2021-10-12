@@ -1,12 +1,11 @@
 '''
     books.py
     Chris Melville and Jake Martens, 11 October 2021
+    Revised by Jake Martens
     Professor Jeff Ondich
 
     This command line interface is allows users to 
     works with booksdatasource.py.
-
-    Revised by Jake Martens
 '''
 
 import booksdatasource
