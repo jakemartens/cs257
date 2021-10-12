@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# Authors: Chris Melville and Jake Martens
-
 '''
     books.py
     Chris Melville and Jake Martens, 11 October 2021
