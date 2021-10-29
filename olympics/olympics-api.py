@@ -8,7 +8,6 @@
     This Flask-based application is an implementation of an API based on the Olympics database
     created for the previous assignment.
 '''
-import sys
 import argparse
 import flask
 import json
@@ -116,6 +115,7 @@ def get_medalist(games_id):
     return json.dumps(medalist_list)
 
 if __name__ == '__main__':
+    # This parser is mostly the same as in Jeff Ondich's flask_sample.py
     parser = argparse.ArgumentParser('This Flask-based application is an implementation of an API\
         based on an Olympics database.')
     parser.add_argument('host', help='the host on which this application is running')
